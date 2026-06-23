@@ -5,7 +5,7 @@ function createWindow() {
     width: 700,
     height: 600,
 
-    transparent: true,
+    
    
 
    
