@@ -3,7 +3,7 @@ import Panel from './components/Panel'
 
 const App = () => {
   return (
-    <div>
+    <div className=" bg-black/20 backdrop-blur-xl " >
     
      <Panel />
   

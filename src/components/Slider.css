@@ -1,0 +1,21 @@
+.slider{
+    appearance: none;
+  -webkit-appearance: none;
+    writing-mode: vertical-rl;
+    direction: rtl;
+    height: 280px ;
+    width:4px ;
+    cursor: pointer;
+   appearance: none;
+  
+   background:rgb(255, 255, 255) ;
+  
+}
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 20px;
+  height: 18px;
+  border-radius: 4px;
+  background: #ffffff; 
+}
+
