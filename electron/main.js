@@ -3,12 +3,7 @@ import { BrowserWindow, app,Menu } from "electron";
 function createWindow() {
   const win = new BrowserWindow({
     width: 700,
-    height: 600,
-
-    
-   
-
-   
+    height: 600,   
   });
 
   Menu.setApplicationMenu(null);

@@ -4,18 +4,21 @@
     writing-mode: vertical-rl;
     direction: rtl;
     height: 280px ;
-    width:4px ;
+    width: 2px ;
     cursor: pointer;
    appearance: none;
-  
-   background:rgb(255, 255, 255) ;
+ 
+  background:rgb(163, 163, 163) ;
+
+
   
 }
 .slider::-webkit-slider-thumb {
   -webkit-appearance: none;
-  width: 20px;
-  height: 18px;
-  border-radius: 4px;
+  width: 14px;
+  height: 14px;
+  border-radius: 2px;
   background: #ffffff; 
 }
+
 
