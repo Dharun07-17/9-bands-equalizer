@@ -1,20 +1,23 @@
 import React from 'react'
 import Slider from './Slider'
 
-const Srow = ({Srow}) => {
+const Srow = ({eq, setEq}) => {
+  const frequencies = [63, 125, 250, 500, 1000, 2000, 4000, 8000, 16000];
   return (
-    <div className="grid justify-center-safe ">
- <div className="grid grid-cols-9 place-items-center gap-6">
-  <Slider label="63" />
-  <Slider label="125" />
-  <Slider label="250" />
-  <Slider label="500" />
-  <Slider label="1k" />
-  <Slider label="2k" />
-  <Slider label="4k" />
-  <Slider label="8k" />
-  <Slider label="16k" />
-</div>
+<div className="flex flex-row gap-8 justify-center items-center">
+  {frequencies.map(freq => (
+    <Slider
+      key={freq}
+      label={freq >= 1000 ? `${freq / 1000}k` : `${freq}`}
+      value={eq?.[freq] ?? 0}
+      onChange={(value) =>
+        setEq(prev => ({
+          ...prev,
+          [freq]: value,
+        }))
+      }
+    />
+  ))}
 </div>
   )
 }
