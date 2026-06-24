@@ -53,6 +53,7 @@ function createWindow() {
     width: 700,
     height: 600,
     title: "9-bands-EQ",
+    
     webPreferences: {
       preload: path.join(app.getAppPath(), "electron", "preload.cjs"),
       contextIsolation: false,

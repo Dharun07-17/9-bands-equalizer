@@ -2,7 +2,7 @@ import "./Slider.css";
 
 const Slider = ({ label, value, onChange, className = "" }) => {
   return (
-    <div className={`flex flex-col items-center justify-center h-full gap-5 ${className}`}>
+    <div className={` font-light flex flex-col items-center justify-center h-full gap-5 ${className}`}>
 
       <span className="text-white text-xl mt-0 w-8 text-center h-3.5">
          {(value)}
