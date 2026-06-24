@@ -1,4 +1,8 @@
-<img width="885" height="685" alt="Screenshot 2026-06-24 105508" src="https://github.com/user-attachments/assets/c81d5b39-0c87-4f5a-948d-01dc73989c7a" />
+<img width="850" height="726" alt="Screenshot 2026-06-24 135505" src="https://github.com/user-attachments/assets/97be5587-a93c-4b18-bfec-77ec72a589ff" />{recent}
+<img width="852" height="737" alt="Screenshot 2026-06-24 132143" src="https://github.com/user-attachments/assets/a61f5475-45d0-47c8-b6b0-76d8b67a7344" />
+<img width="857" height="727" alt="Screenshot 2026-06-24 132054" src="https://github.com/user-attachments/assets/332595b3-98fe-4101-945c-689aecde9576" />
+
+
 
 
 9-bands-eq
