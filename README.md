@@ -1,4 +1,5 @@
-<img width="856" height="735" alt="Screenshot 2026-06-23 175025" src="https://github.com/user-attachments/assets/13af95d6-15c3-4e3b-9152-bc4af8147f68" />
+<img width="885" height="685" alt="Screenshot 2026-06-24 105508" src="https://github.com/user-attachments/assets/c81d5b39-0c87-4f5a-948d-01dc73989c7a" />
+
 
 9-bands-eq
 hift
