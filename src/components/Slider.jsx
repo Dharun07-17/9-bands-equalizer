@@ -4,7 +4,7 @@ const Slider = ({ label, value, onChange, className = "" }) => {
   return (
     <div className={`flex flex-col items-center justify-center h-full gap-5 ${className}`}>
 
-      <span className="text-white text-xl mt-0 w-8 text-center">
+      <span className="text-white text-xl mt-0 w-8 text-center h-3.5">
          {(value)}
       </span>
 
@@ -19,7 +19,7 @@ const Slider = ({ label, value, onChange, className = "" }) => {
         />
       </div>
 
-      <span className="text-lg  text-white flex justify-center items-center">
+      <span className="text-lg  text-white flex justify-center items-center h-0.5">
         {label}
       </span>
 
