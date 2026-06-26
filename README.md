@@ -18,3 +18,5 @@ hift
 4k Hz & 8k Hz: Controls brilliance, detail, and speech intelligibility. Boosting brings out the crispness in guitars and cymbals.
 
 16k Hz: Handles high-end air, sparkle, and ambient room sound.
+
+NOT FINAL VERSION
